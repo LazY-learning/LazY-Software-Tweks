@@ -1,4 +1,3 @@
-![image alt](https://github.com/LazY-learning/LazY-Software-Tweks/blob/main/Main%20Menu.png?raw=true)
 -LazY V2.9 – Software Downloader & Tweaks Tool
 LazY V2.9 is a Windows batch script that lets you quickly download popular software or (in the future) apply system tweaks — all from a colorful, old-school command-line menu.
 Think of it like a mini app store, but made entirely from a .bat file.
@@ -44,6 +43,7 @@ Add more popular software.
 This project is free to use, edit, and share.
 Just don’t re-upload it pretending it’s your own — give credit where it’s due."# decentralized-app" 
 "# LazY-Software-Tweks" 
-
-
+![image alt](https://github.com/LazY-learning/LazY-Software-Tweks/blob/main/Main%20Menu.png?raw=true)
+![image alt](https://github.com/LazY-learning/LazY-Software-Tweks/blob/main/Software%20Menu.png?raw=true)
+![image alt](https://github.com/LazY-learning/LazY-Software-Tweks/blob/main/Tweks%20Menu.png?raw=true)
 
