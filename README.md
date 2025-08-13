@@ -43,4 +43,5 @@ Add more popular software.
 This project is free to use, edit, and share.
 Just don’t re-upload it pretending it’s your own — give credit where it’s due."# decentralized-app" 
 "# LazY-Software-Tweks" 
-![LazY V2.9]([https://github.com/YourUsername/YourRepoName/blob/main/menu.png?raw=true](https://github.com/LazY-learning/LazY-Software-Tweks/blob/main/Main%20Menu.png?raw=true))
+![image alt]([https://github.com/YourUsername/YourRepoName/blob/main/menu.png?raw=true](https://github.com/LazY-learning/LazY-Software-Tweks/blob/main/Main%20Menu.png?raw=true))
+
